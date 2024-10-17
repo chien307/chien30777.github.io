@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>關於我 on 妙妙妙</title>
-    <link>https://chien30777.github.io/about/</link>
+    <link>https://chien307.github.io/about/</link>
     <description>Recent content in 關於我 on 妙妙妙</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://chien30777.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chien307.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

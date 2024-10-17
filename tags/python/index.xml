@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on 妙妙妙</title>
-    <link>https://chien30777.github.io/tags/python/</link>
+    <link>https://chien307.github.io/tags/python/</link>
     <description>Recent content in Python on 妙妙妙</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 29 Oct 2023 10:07:47 +0800</lastBuildDate>
-    <atom:link href="https://chien30777.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chien307.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>失敗為成功之母</title>
-      <link>https://chien30777.github.io/blog/test2/</link>
+      <link>https://chien307.github.io/blog/test2/</link>
       <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
-      <guid>https://chien30777.github.io/blog/test2/</guid>
+      <guid>https://chien307.github.io/blog/test2/</guid>
       <description>&lt;h1 id=&#34;一級標題&#34;&gt;一級標題&lt;/h1&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>搞什麼</title>
-      <link>https://chien30777.github.io/blog/post-12/</link>
+      <link>https://chien307.github.io/blog/post-12/</link>
       <pubDate>Sat, 29 Oct 2022 10:07:47 +0800</pubDate>
-      <guid>https://chien30777.github.io/blog/post-12/</guid>
+      <guid>https://chien307.github.io/blog/post-12/</guid>
       <description>&lt;p&gt;想要找到問題&lt;/p&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://chien30777.github.io/blog/post-1/</link>
+      <link>https://chien307.github.io/blog/post-1/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://chien30777.github.io/blog/post-1/</guid>
+      <guid>https://chien307.github.io/blog/post-1/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://chien30777.github.io/blog/post-10/</link>
+      <link>https://chien307.github.io/blog/post-10/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://chien30777.github.io/blog/post-10/</guid>
+      <guid>https://chien307.github.io/blog/post-10/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://chien30777.github.io/blog/post-11/</link>
+      <link>https://chien307.github.io/blog/post-11/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://chien30777.github.io/blog/post-11/</guid>
+      <guid>https://chien307.github.io/blog/post-11/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://chien30777.github.io/blog/post-13/</link>
+      <link>https://chien307.github.io/blog/post-13/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://chien30777.github.io/blog/post-13/</guid>
+      <guid>https://chien307.github.io/blog/post-13/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://chien30777.github.io/blog/post-2/</link>
+      <link>https://chien307.github.io/blog/post-2/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://chien30777.github.io/blog/post-2/</guid>
+      <guid>https://chien307.github.io/blog/post-2/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://chien30777.github.io/blog/post-3/</link>
+      <link>https://chien307.github.io/blog/post-3/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://chien30777.github.io/blog/post-3/</guid>
+      <guid>https://chien307.github.io/blog/post-3/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://chien30777.github.io/blog/post-4/</link>
+      <link>https://chien307.github.io/blog/post-4/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://chien30777.github.io/blog/post-4/</guid>
+      <guid>https://chien307.github.io/blog/post-4/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://chien30777.github.io/blog/post-5/</link>
+      <link>https://chien307.github.io/blog/post-5/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://chien30777.github.io/blog/post-5/</guid>
+      <guid>https://chien307.github.io/blog/post-5/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://chien30777.github.io/blog/post-8/</link>
+      <link>https://chien307.github.io/blog/post-8/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://chien30777.github.io/blog/post-8/</guid>
+      <guid>https://chien307.github.io/blog/post-8/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://chien30777.github.io/blog/post-9/</link>
+      <link>https://chien307.github.io/blog/post-9/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://chien30777.github.io/blog/post-9/</guid>
+      <guid>https://chien307.github.io/blog/post-9/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
