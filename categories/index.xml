@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 妙妙妙</title>
+    <link>https://chien30777.github.io/categories/</link>
+    <description>Recent content in Categories on 妙妙妙</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 01 Oct 2024 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://chien30777.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Try</title>
+      <link>https://chien30777.github.io/categories/another-try/</link>
+      <pubDate>Tue, 01 Oct 2024 10:07:47 +0800</pubDate>
+      <guid>https://chien30777.github.io/categories/another-try/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>You Are Not You</title>
+      <link>https://chien30777.github.io/categories/you-are-not-you/</link>
+      <pubDate>Tue, 01 Oct 2024 10:07:47 +0800</pubDate>
+      <guid>https://chien30777.github.io/categories/you-are-not-you/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Life</title>
+      <link>https://chien30777.github.io/categories/new-life/</link>
+      <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
+      <guid>https://chien30777.github.io/categories/new-life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android and Gaming</title>
+      <link>https://chien30777.github.io/categories/android-and-gaming/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://chien30777.github.io/categories/android-and-gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go Language</title>
+      <link>https://chien30777.github.io/categories/go-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://chien30777.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML &amp; CSS</title>
+      <link>https://chien30777.github.io/categories/html--css/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://chien30777.github.io/categories/html--css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://chien30777.github.io/categories/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://chien30777.github.io/categories/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Design</title>
+      <link>https://chien30777.github.io/categories/web-design/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://chien30777.github.io/categories/web-design/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

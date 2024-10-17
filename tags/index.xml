@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 妙妙妙</title>
+    <link>https://chien30777.github.io/tags/</link>
+    <description>Recent content in Tags on 妙妙妙</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 01 Oct 2024 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://chien30777.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New</title>
+      <link>https://chien30777.github.io/tags/new/</link>
+      <pubDate>Tue, 01 Oct 2024 10:07:47 +0800</pubDate>
+      <guid>https://chien30777.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clock</title>
+      <link>https://chien30777.github.io/tags/clock/</link>
+      <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
+      <guid>https://chien30777.github.io/tags/clock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game</title>
+      <link>https://chien30777.github.io/tags/game/</link>
+      <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
+      <guid>https://chien30777.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Problem Solve</title>
+      <link>https://chien30777.github.io/tags/problem-solve/</link>
+      <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
+      <guid>https://chien30777.github.io/tags/problem-solve/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://chien30777.github.io/tags/python/</link>
+      <pubDate>Sun, 29 Oct 2023 10:07:47 +0800</pubDate>
+      <guid>https://chien30777.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>https://chien30777.github.io/tags/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://chien30777.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photos</title>
+      <link>https://chien30777.github.io/tags/photos/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://chien30777.github.io/tags/photos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>https://chien30777.github.io/tags/react/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://chien30777.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
